@@ -3083,32 +3083,4 @@
      <div *ngFor="let todo of todos; let i=index">{{i + 1}} - {{todo.name}}</div>
      ```
 
-     **[⬆ Back to Top](#table-of-contents)**
-
-204. ### What is the purpose of ngFor trackBy?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-205. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-206. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-207. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-208. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-209. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-210. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
+     
